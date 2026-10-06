@@ -1,0 +1,32 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables / API keys
+.env
+.env.*
+!.env.example
+
+# Vector database
+vector_store/
+.vector_store/
+chroma/
+.chroma/
+
+uploads/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

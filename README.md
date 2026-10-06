@@ -25,6 +25,24 @@ A user can:
 
 The application uses **LangGraph** to orchestrate specialized agents and route each query to the most appropriate workflow.
 
+## Application Screenshots
+
+### Main Interface
+
+![Main Interface](screenshots/Main_ui.jpg)
+
+### Analytics Agent
+
+![Analytics Agent](screenshots/Analytic.jpg)
+
+### RAG Agent
+
+![RAG Agent](screenshots/RAG.jpg)
+
+### Dataset & Document Upload
+
+![Upload Interface](screenshots/Upload.jpg)
+
 ---
 
 ## Key Features
